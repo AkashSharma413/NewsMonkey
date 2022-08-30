@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 23,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Indiana 1st state to ban most abortions after the overturning of Roe v. Wade | CBC News",
+      "description": "Indiana has become the first state in the U.S. to approve abortion restrictions since the Supreme Court overturned Roe v. Wade, as the Republican governor quickly signed a near-total ban on the procedure shortly after lawmakers approved it.",
+      "url": "http://www.cbc.ca/news/world/indiana-abortion-roe-wade-1.6543697",
+      "urlToImage": "https://i.cbc.ca/1.6543699.1659767119!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/abortion-indiana.jpg",
+      "publishedAt": "2022-08-06T17:37:21.9676028Z",
+      "content": "Indiana on Friday became the first state in the U.S. to approve abortion restrictions since the Supreme Court overturned the 1973 landmark Roe v. Wade case, as the Republican governor quickly signed … [+5616 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Amy Cheng",
+      "title": "Indiana passes near-total abortion ban, the first state to do so post-Roe",
+      "description": "The bill, which includes exceptions for rape and incest cases, was signed into law by Gov. Eric Holcomb (R) soon after passing Indiana's Republican-controlled Senate.",
+      "url": "https://www.washingtonpost.com/nation/2022/08/06/indiana-abortion-ban-roe-holcomb/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y4I3YWQVHYI63BECA3A4QTHI6I.jpg&w=1440",
+      "publishedAt": "2022-08-06T17:28:10+00:00",
+      "content": "Comment on this story\r\nIndiana became the first state in the country after the fall of Roe v. Wade to pass sweeping limits on abortion access, after Gov. Eric Holcomb (R) signed into law Friday a bil… [+3967 chars]"
+    },
+    {
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "CNN",
+      "title": "Estados Unidos participará en ejercicio militar cerca de la disputada frontera entre India y China",
+      "description": "Estados Unidos participará en un ejercicio militar conjunto con India cerca de la disputada frontera entre India y China",
+      "url": "https://cnnespanol.cnn.com/2022/08/06/estados-unidos-participara-en-ejercicio-militar-cerca-de-la-frontera-entre-india-y-china-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/08/220805215208-india-us-miliary-exercise-file-092516-super-tease.jpeg?quality=100&strip=info",
+      "publishedAt": "2022-08-06T17:19:48Z",
+      "content": "China avanza sus represalias luego del viaje de Pelosi 2:44\r\n(CNN) -- Estados Unidos participará en un ejercicio militar conjunto con India a menos de 100 kilómetros (62 millas) de la disputada front… [+3122 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "Sachin Parashar",
+      "title": "Sri Lanka blocks visit by Chinese vessel after protest by India",
+      "description": "India News: NEW DELHI: Following a strong protest by India, Sri Lanka has blocked the proposed visit by a Chinese \"spy vessel’’ to the Hambantota port in southern.",
+      "url": "https://timesofindia.indiatimes.com/india/lanka-blocks-visit-by-chinese-vessel-after-protest-by-india/articleshow/93397427.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-93397411,width-1070,height-580,imgsize-49366,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-08-06T15:50:00+00:00",
+      "content": "India voices concern over China spy ships Lanka visit next weekNEW DELHI: India has discussed with Sri Lankan authorities the proposed visit next week by a Chinese spy ship to the Hambantota port in … [+158 chars]"
+    }
+  ]
+}
